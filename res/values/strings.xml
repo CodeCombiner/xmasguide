@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Community Christmas Guide</string>
+	<string name="activities">Activities</string>
+	<string name="places">Places</string>
+	<string name="addplace">Add place</string>
+	<string name="allplaces">All places</string>
+	<string name="placesaround">Places around</string>
+	<string name="toprated">Top rated</string>
+	<string name="searchbyname">Search by name</string>
+	<string name="rateplace">Rate place</string>
+	<string name="findfriends">Find friends</string>
+	<string name="checkin">Check In</string>
+	<string name="countries">Countries</string>
+	<string name="cities">Cities</string>
+	<string name="events">Events</string>
+	<string name="find_your_place">Find your place to celebrate</string>
+	<string name="find_your_place_short">Find your place</string>
+	<string name="vote_place">Vote place</string>
+	<string name="vote_place_to_visit">Vote place in this year</string>
+	<string name="connect_to_community">Connect to community</string>
+	<string name="unable_to_establish">Unable to establish connection</string>
+	<string name="country">Country</string>
+	<string name="city">City</string>
+	<string name="village">Village</string>
+	<string name="house">House</string>
+	<string name="title">Title</string>
+	<string name="description">Description</string>
+	<string name="add">Add</string>
+	<string name="more">More&#8230; </string>
+	<string name="citiesdots">Cities&#8230;</string>
+	<string name="placesdots">Places&#8230;</string>
+	<string name="attach_picture">Attach picture</string>
+	<string name="greetings">Merry Christmas</string>
+	<string name="country_trad">Country Traditions</string>
+	<string name="check_countries">Check countries</string>
+	<string name="check_cities">Check cities</string>
+	<string name="be_active">Be active</string>
+	<string name="xmas_guide">Christmas Guide</string>
+	<string name="open_guide_menu">Open Guide Menu</string>
+	<string name="welcome">Welcome to Christmas Guide Application. Get known with world Christmas tradtions, find places to celebrate and interact with Christmas celebration community!</string>
+
+	<string name="city_celebration">City Celebration</string>
+	<string name="in_dev">We are sorry, this feature is currently in development</string>
+		<string-array name="menuArray">
+			<item>@string/activities</item>
+			<item>@string/places</item>
+			<item>@string/addplace</item>
+		</string-array>
+	<string name="open_menu">Open menu</string>
+	<string name="close_menu">Close menu</string>
+	<string name="type_to_search">Type to search</string>
+
+	<array name="imagesmenu">
+		<item>@drawable/santa_s_sleigh</item>
+		<item>@drawable/homes</item>
+		<item>@drawable/home</item>
+	</array>
+	<string name="big_text_example">		Christmas Day services begin early at six in the morning and people visit families and reunions are arranged on this day.
+		Afterwards, they dress up in clean clothes for the Christmas dinner or joulupöytä, which is usually served between 5pm and 7pm, or traditionally with the appearance of the first star in the sky. The most traditional dish of the Finnish Christmas dinner is probably Christmas Ham, roast suckling pig or a roasted fresh ham, but some may prefer alternatives like turkey. Several sorts of casseroles, like rutabaga, carrot and potato casserole are traditional, and are almost always exclusively served on Christmas. Other traditional Christmas dishes include boiled codfish (soaked beforehand in a lye solution for a week to soften it) served snowy white and fluffy, pickled herring and vegetables. Prune jam pastries, plum or mixed fruit soup, rice porridge with cinnamon, sugar and cold milk, and sweets like chocolate are popular desserts. Christmas gifts are usually exchanged after Christmas Eve dinner.[86] Children do not hang up stockings in Finland but Joulupukki visits the household, maybe with a tonttu to help him distribute the presents.
+		Afterwards, they dress up in clean clothes for the Christmas dinner or joulupöytä, which is usually served between 5pm and 7pm, or traditionally with the appearance of the first star in the sky. The most traditional dish of the Finnish Christmas dinner is probably Christmas Ham, roast suckling pig or a roasted fresh ham, but some may prefer alternatives like turkey. Several sorts of casseroles, like rutabaga, carrot and potato casserole are traditional, and are almost always exclusively served on Christmas. Other traditional Christmas dishes include boiled codfish (soaked beforehand in a lye solution for a week to soften it) served snowy white and fluffy, pickled herring and vegetables. Prune jam pastries, plum or mixed fruit soup, rice porridge with cinnamon, sugar and cold milk, and sweets like chocolate are popular desserts. Christmas gifts are usually exchanged after Christmas Eve dinner.[86] Children do not hang up stockings in Finland but Joulupukki visits the household, maybe with a tonttu to help him distribute the presents.
+		Afterwards, they dress up in clean clothes for the Christmas dinner or joulupöytä, which is usually served between 5pm and 7pm, or traditionally with the appearance of the first star in the sky. The most traditional dish of the Finnish Christmas dinner is probably Christmas Ham, roast suckling pig or a roasted fresh ham, but some may prefer alternatives like turkey. Several sorts of casseroles, like rutabaga, carrot and potato casserole are traditional, and are almost always exclusively served on Christmas. Other traditional Christmas dishes include boiled codfish (soaked beforehand in a lye solution for a week to soften it) served snowy white and fluffy, pickled herring and vegetables. Prune jam pastries, plum or mixed fruit soup, rice porridge with cinnamon, sugar and cold milk, and sweets like chocolate are popular desserts. Christmas gifts are usually exchanged after Christmas Eve dinner.[86] Children do not hang up stockings in Finland but Joulupukki visits the household, maybe with a tonttu to help him distribute the presents.
+		Afterwards, they dress up in clean clothes for the Christmas dinner or joulupöytä, which is usually served between 5pm and 7pm, or traditionally with the appearance of the first star in the sky. The most traditional dish of the Finnish Christmas dinner is probably Christmas Ham, roast suckling pig or a roasted fresh ham, but some may prefer alternatives like turkey. Several sorts of casseroles, like rutabaga, carrot and potato casserole are traditional, and are almost always exclusively served on Christmas. Other traditional Christmas dishes include boiled codfish (soaked beforehand in a lye solution for a week to soften it) served snowy white and fluffy, pickled herring and vegetables. Prune jam pastries, plum or mixed fruit soup, rice porridge with cinnamon, sugar and cold milk, and sweets like chocolate are popular desserts. Christmas gifts are usually exchanged after Christmas Eve dinner.[86] Children do not hang up stockings in Finland but Joulupukki visits the household, maybe with a tonttu to help him distribute the presents.
+
+	</string>
+		<!--The ceremony ends with trumpets playing the Finnish national anthem Maamme and Porilaisten marssi, with the crowd usually singing when the band plays Maamme. Recently, there is also a declaration of Christmas peace for forest animals in many cities and municipalities, so there is no hunting during Christmas.
+		Finnish people clean their homes well before Christmas and prepare special treats for the festive season. A sheaf of grain, nuts and seeds are tied on a pole, which is placed in the garden for the birds to feed on. Spruce trees are cut or bought from a market and taken to homes on or a few days before Christmas Eve and are decorated. Candles are lit on the Christmas tree, which is traditionally decorated using apples and other fruit, candies, paper flags, cotton and tinsel, in addition to Christmas ornaments such as stars or baubles. Actual candles are no longer used, being replaced by incandescent or LED lamps. A star symbolizing the Star of Bethlehem is placed at the top of the tree. Just before the Christmas festivities begin, people usually take a Christmas sauna. The tradition is very old; unlike on normal days, when one would go to the sauna in the evening, on Christmas Eve it is done before sunset. This tradition is based on a pre-20th century belief that the spirits of the dead return and have a sauna at the usual sauna hours.[85]
+		Afterwards, they dress up in clean clothes for the Christmas dinner or joulupöytä, which is usually served between 5pm and 7pm, or traditionally with the appearance of the first star in the sky. The most traditional dish of the Finnish Christmas dinner is probably Christmas Ham, roast suckling pig or a roasted fresh ham, but some may prefer alternatives like turkey. Several sorts of casseroles, like rutabaga, carrot and potato casserole are traditional, and are almost always exclusively served on Christmas. Other traditional Christmas dishes include boiled codfish (soaked beforehand in a lye solution for a week to soften it) served snowy white and fluffy, pickled herring and vegetables. Prune jam pastries, plum or mixed fruit soup, rice porridge with cinnamon, sugar and cold milk, and sweets like chocolate are popular desserts. Christmas gifts are usually exchanged after Christmas Eve dinner.[86] Children do not hang up stockings in Finland but Joulupukki visits the household, maybe with a tonttu to help him distribute the presents.
+		Christmas Day services begin early at six in the morning and people visit families and reunions are arranged on this day.
+		Boxing Day, or tapaninpäivä (St. Stephen's Day) is traditionally set aside for driving around the village (tapaninajot), to counterbalance the solemn and family-oriented part of Christmas.
+	-->
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="item_not_selected">#f27f20</color>
+    <color name="item_selected">#f9a725</color>
+    <color name="grey_logo_color">#3e3935</color>
+    <color name="green">#387025</color>
+    <color name="blue">#009</color>
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+    <color name="button_bg_blue">#4786c7</color>
+    <color name="red_col">#e90806</color>
+    <color name="button_bg_blue_pressed">#2667ab</color>
+    <color name="red_selected_bg">#d64233</color>
+    <color name="button_grey">#a4a9ad</color>
+    <color name="green_selection">#89c53f</color>
+    <color name="et_hint_grey">#8d8d8d</color>
+    <color name="transparent_black_percent_20">#33000000</color>
+    <color name="transparent_black_percent_25">#40000000</color>
+    <color name="transparent_black_percent_30">#4D000000</color>
+    <color name="transparent_black_percent_35">#59000000</color>
+    <color name="transparent_black_percent_40">#66000000</color>
+    <color name="transparent_black_percent_45">#73000000</color>
+    <color name="transparent_black_percent_50">#80000000</color>
+    <color name="transparent_black_percent_55">#8C000000</color>
+    <color name="transparent_black_percent_60">#99000000</color>
+    <color name="transparent_black_percent_65">#A6000000</color>
+    <color name="transparent_black_percent_70">#B3000000</color>
+    <color name="transparent_black_percent_75">#BF000000</color>
+    <color name="transparent_black_percent_80">#CC000000</color>
+</resources>

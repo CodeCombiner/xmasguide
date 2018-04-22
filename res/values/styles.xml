@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="XMasActionBar">
+        <item name="android:height">72dp</item>
+    </style>
+    <style name="XMasActionBarBiggest">
+        <item name="android:height">120dp</item>
+    </style>
+
+    <style name="XMasActionBarStyleTheme" parent="@android:style/Theme.Holo">
+        <item name="android:actionBarStyle">@style/XMasActionBar</item>
+
+    </style>
+    <style name="XMasActionBarBiggestStyleTheme" parent="@android:style/Theme.Holo">
+        <item name="android:actionBarStyle">@style/XMasActionBarBiggest</item>
+
+    </style>
+
+
+    <style name="XMasTranslucentNoTitleBarTheme" parent="@android:style/Theme.Translucent.NoTitleBar">
+
+
+    </style>
+    <style name="XMasHoloLightNoActionBarFullscreenTheme" parent="@android:style/Theme.Holo.Light.NoActionBar.Fullscreen">
+
+    </style>
+
+    <!--<style name="ErgosoleTHoloLightNoActionBarFullscreenTheme" parent="@android:style/Theme.Holo.Light.NoActionBar.Fullscreen">
+        <item name="android:typeface">monospace</item>
+    </style>-->
+
+</resources>
